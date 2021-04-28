@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reminder-pro/static/css/main.2dde11f9.chunk.css",
+    "main.js": "/reminder-pro/static/js/main.0490669c.chunk.js",
+    "main.js.map": "/reminder-pro/static/js/main.0490669c.chunk.js.map",
+    "runtime-main.js": "/reminder-pro/static/js/runtime-main.5df4329b.js",
+    "runtime-main.js.map": "/reminder-pro/static/js/runtime-main.5df4329b.js.map",
+    "static/js/2.e3f576ba.chunk.js": "/reminder-pro/static/js/2.e3f576ba.chunk.js",
+    "static/js/2.e3f576ba.chunk.js.map": "/reminder-pro/static/js/2.e3f576ba.chunk.js.map",
+    "index.html": "/reminder-pro/index.html",
+    "static/css/main.2dde11f9.chunk.css.map": "/reminder-pro/static/css/main.2dde11f9.chunk.css.map",
+    "static/js/2.e3f576ba.chunk.js.LICENSE.txt": "/reminder-pro/static/js/2.e3f576ba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5df4329b.js",
+    "static/js/2.e3f576ba.chunk.js",
+    "static/css/main.2dde11f9.chunk.css",
+    "static/js/main.0490669c.chunk.js"
+  ]
+}
